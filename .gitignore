@@ -8,3 +8,4 @@ geo_data/
 *.rds
 #claude
 ClAUDE.md
+geo_data.ipynb
