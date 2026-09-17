@@ -1,0 +1,7 @@
+metric	value
+main_deg	9152
+block_deg	510
+both	233
+both_same_direction	225
+spearman_lfc_all	0.412
+spearman_lfc_main_deg	0.488

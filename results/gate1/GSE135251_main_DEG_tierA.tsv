@@ -1,0 +1,98 @@
+approvedSymbol	log2FC_shrunk	padj	baseMean	sm_evidence	sm_categories
+MMP7	3.52396384374726	6.91316367641888e-19	61.3034642825481	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+GABRE	2.41689199365347	8.314580968502961e-15	198.510318534264	strong	Approved Drug;High-Quality Ligand;Druggable Family
+CFTR	2.29385001892364	1.18031140025879e-11	143.601908241247	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+ADRA2A	2.3987366059832	4.70146650825822e-10	12.3110679830311	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+PTGDS	2.24739485186768	3.4396070371752203e-09	219.845495454483	strong	Approved Drug;Structure with Ligand;High-Quality Pocket
+MMP2	1.47151233677129	6.502921463075451e-09	166.570702455257	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+FXYD2	2.00261027261776	1.55643648317572e-08	11.9845988726089	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+CACNA1C	2.31108568313383	3.40823947307355e-08	14.2812489620023	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+CTSK	1.02540856018287	5.16024587765622e-08	156.575985640229	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+CACNB3	1.37214596630213	8.31444420151071e-08	15.2205669795052	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+PLAT	1.36078754828984	2.11898516795886e-07	83.7386527717101	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Med-Quality Pocket;Druggable Family
+MAP3K12	1.09072022604826	3.25187493737613e-07	45.1059293002389	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+SV2A	1.33473643573514	6.16267272110518e-07	11.5540168278993	weak	Approved Drug;Structure with Ligand;Druggable Family
+MST1R	1.53327379972957	1.27523170776651e-06	10.5146755174863	strong	Phase 1 Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+SLC5A1	1.62453730857604	1.43062400224846e-06	68.7521532608113	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+DNMT3A	0.55069314216367	3.13645247681709e-06	180.787486356095	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+CETP	-1.49239427055897	4.28553221519201e-06	490.17685075525	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+ALDH2	-0.608245835244558	4.52574428060259e-06	30459.4734628584	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+ADRA2B	-0.848985488085586	4.97453752723554e-06	105.956128334668	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+CYP3A7	1.14487632214232	6.46659239946916e-06	1697.34446355283	weak	Approved Drug;Structure with Ligand;Druggable Family
+MAP2K1	-0.707669790234173	1.15797527859268e-05	1265.0190639072	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+GABBR1	1.19974146366781	1.66743653214016e-05	86.6618180986298	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+NQO1	1.34631288189978	2.73238970023321e-05	37.1290950652181	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+LGALS3	0.908958757456702	2.73555706610647e-05	218.54258910878	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand
+MAPK10	0.967983742832563	9.73460435178447e-05	31.705543501862	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+TYMS	1.00023777435256	0.000115261987514	130.866453445946	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+EZH2	0.649710219643526	0.0001311584132851	59.1575768835392	strong	Approved Drug;Structure with Ligand;High-Quality Ligand
+CACNB1	1.35212480309707	0.0001495201683839	8.67465622570111	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+AVPR1A	-1.6173449305742	0.000201630997042	403.435019512337	strong	Approved Drug;High-Quality Ligand;Druggable Family
+HDAC6	0.514869814224978	0.000201630997042	2660.39590489264	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+SRC	0.740776103044597	0.0002328619414966	137.506066496885	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+FLNA	1.02737192347293	0.0002502707516038	715.219403047143	strong	Advanced Clinical;Structure with Ligand;High-Quality Pocket
+PLA2G5	0.97692896668253	0.0002792002410596	40.3017950990092	strong	Advanced Clinical;High-Quality Ligand;Druggable Family
+KCNJ5	1.13374287555138	0.0002797236658594	11.0457874066731	strong	Approved Drug;High-Quality Ligand;Druggable Family
+MMP14	0.775856911146299	0.000283312369306	285.324998805171	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+LOXL2	0.667520726563864	0.0005966596249723	33.7063553202823	strong	Advanced Clinical;High-Quality Ligand
+SRD5A1	-0.528827307838759	0.0006189215033542	904.703353694354	strong	Approved Drug;High-Quality Ligand;Druggable Family
+KCNN4	1.25433304305717	0.0006970176422707	7.58006361245692	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+TUBA1A	0.626084199790194	0.0006979771251838	223.434444116895	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+EPHA3	1.17868955471021	0.0007114689535911	107.193683959142	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+CA9	1.33029979250156	0.0008310130948556	12.0361449174914	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Med-Quality Pocket;Druggable Family
+SCNN1A	0.621811394211059	0.0008573669594744	87.3975756227034	weak	Approved Drug;Druggable Family
+BCHE	-0.722021738442614	0.0008625517896416	4345.56621218305	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+GLS	0.757693928779485	0.0008957417386119	256.711039871399	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand
+ABCC1	0.597926325100183	0.0009201166550261	83.5082141890513	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+ADORA1	1.09686106411437	0.0012356724753552	8.0371179647277	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+ATP2A3	0.705695329469464	0.0013901466504092	87.6741287565396	strong	Advanced Clinical;High-Quality Ligand;Druggable Family
+TTR	-0.509698439891469	0.0014257022602442	144228.081574507	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+KCND1	0.949188561736595	0.0018076154303444	12.4237247383725	weak	Approved Drug;Druggable Family
+BDKRB2	1.69168023802743	0.0018604102355682	7.65493926069154	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+CCR2	0.657290589685777	0.002090609113037	60.4473943328548	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+EPHB3	0.932279019586851	0.0025376939614227	23.6415370324711	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+ENPEP	-0.578134221717693	0.0025934718517127	1528.63583908971	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+RARG	0.580690195729573	0.0027524007485992	67.1821818918447	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Med-Quality Pocket;Druggable Family
+CDK18	0.651616265914793	0.0028231592860023	198.038819765591	strong	Advanced Clinical;High-Quality Ligand;Druggable Family
+TUBB6	0.565552716456049	0.0029004228692536	99.4302833950777	strong	Approved Drug;High-Quality Ligand;Druggable Family
+KCNJ3	-0.66391112446256	0.0029555899087885	113.437753816822	strong	Approved Drug;High-Quality Ligand;Druggable Family
+BCL2	0.659455703057055	0.0030720803752381	61.9550726100643	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+HDAC7	0.610658219125772	0.0033133084706174	182.074361382248	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Med-Quality Pocket;Druggable Family
+PDGFRA	0.670698867340554	0.0034144187625907	341.575697254342	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+PDK4	-0.852586013058664	0.0038402305161046	6182.5214734917	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket
+PTGIR	0.721138923892167	0.0040018331026113	41.6372376344987	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+ACHE	1.26014211923456	0.0040678339014387	20.3821436887378	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+TUBB1	-0.8154544256213	0.004151463417543	11.0090897981837	strong	Approved Drug;High-Quality Ligand;Druggable Family
+PDGFRB	0.557344647288123	0.0046433073858653	448.880884153931	strong	Approved Drug;High-Quality Ligand;Druggable Family
+EPHA4	0.878271469281136	0.0046743828069023	32.5879473583785	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+EPHB2	0.891188450394592	0.0048541681930903	14.4598231759754	strong	Approved Drug;High-Quality Ligand;Druggable Family
+AGER	0.88410958642888	0.0058574223823007	63.6315433977191	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket
+NTRK2	1.07302530595856	0.0058824192271242	35.1041984263744	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+GSTP1	0.541368899345723	0.0060673345420721	324.058353393621	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+KDR	-0.695741704061142	0.0070669725377328	889.161063728035	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+RPS29	-0.539120361675446	0.0071275338158491	3089.31541359501	strong	Approved Drug;Structure with Ligand;High-Quality Ligand
+MME	-0.576733716865017	0.0094228840751606	2069.76592439294	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+PDE1A	0.606323566925873	0.0095352043162545	54.1354279447871	strong	Approved Drug;High-Quality Ligand;Druggable Family
+BMX	0.939909694523109	0.010517962155758	11.1049361631705	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+CACNA1H	-0.761793092756384	0.010849010263012	1180.56618782159	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+PDE4C	0.781755079545942	0.0156393149109303	7.31744444148586	strong	Approved Drug;High-Quality Ligand;Med-Quality Pocket;Druggable Family
+CA14	-0.612725105764652	0.0175533101976045	162.369554724469	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+CACNA2D1	0.723784709922513	0.0194135088440707	22.809751315575	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+PLK1	0.601295716280265	0.0210737062173382	21.2681005961899	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+ABCC9	-0.514059857218589	0.0218696365582005	1869.39398530974	strong	Approved Drug;High-Quality Ligand;Druggable Family
+CXCR2	-0.951634521991363	0.0225808185707803	20.0813193231308	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+JAK3	0.576389824719073	0.023852149491979	50.1598696033008	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+PDE5A	0.576962485091179	0.023852149491979	37.680174073909	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+CDC7	0.556364161096567	0.0242076050866144	22.1752174423078	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family
+GCK	-0.956696131050817	0.0267128014494043	420.690567812191	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+ATP2A1	0.762227537664127	0.0267423721548101	13.8624049650285	strong	Advanced Clinical;High-Quality Ligand;Druggable Family
+CHEK1	0.645932086359622	0.0268862198042826	19.8979168755237	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+PRKAA2	0.748968598825275	0.0282055198264736	80.4317634509624	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+ACE	0.541528916231549	0.0305393990224089	20.1395406480072	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;High-Quality Pocket;Druggable Family
+EEF1A2	1.59040626759175	0.0312086048951829	24.4482105280007	weak	Advanced Clinical
+EPHB1	-0.551283103191348	0.0313068781548018	46.4613776205074	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+PTK6	0.509834110061298	0.0319315894446103	93.5569106168436	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+CXCR1	-0.804684338356277	0.0329113570084173	13.8041960626348	strong	Advanced Clinical;High-Quality Ligand;Druggable Family
+GABRB3	1.07585003405928	0.0330074871502472	73.5673541615151	strong	Approved Drug;Structure with Ligand;High-Quality Ligand;Druggable Family
+FGF1	0.504192877512747	0.0483738764271029	15.3806887434255	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Med-Quality Pocket;Druggable Family
+SLC6A9	0.608809774798205	0.0494848940995395	10.6718352208198	strong	Advanced Clinical;Structure with Ligand;High-Quality Ligand;Druggable Family

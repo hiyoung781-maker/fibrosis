@@ -1,0 +1,8 @@
+# 외부 도구 (각자 원래 저장소가 따로 있음)
+Geneformer/
+REINVENT4/
+# 원본·다운로드 데이터
+opentarget/
+geo_data/
+*.tar
+*.rds

@@ -1,0 +1,50 @@
+There were 12 warnings (use warnings() to see them)
+Fontconfig warning: using without calling FcInit()
+
+=== sample blocks x stage ===
+          
+           normal  0  1  2  3  4
+  1119plus      0  0  0 10  3  8
+  other        31 35 30 17  5  4
+
+=== PC variance explained by covariates (R^2) ===
+  PC pct_var stage block nas_NA   age   sex lib_size detected_ge10 top100_frac
+ PC1    14.3 0.363 0.226  0.641 0.060 0.000    0.553         0.072       0.441
+ PC2    10.3 0.099 0.051  0.004 0.014 0.408    0.002         0.000       0.198
+ PC3     5.6 0.015 0.000  0.007 0.004 0.408    0.025         0.088       0.003
+ PC4     5.3 0.377 0.114  0.004 0.061 0.046    0.054         0.031       0.028
+ PC5     3.3 0.036 0.020  0.001 0.004 0.012    0.002         0.000       0.009
+
+=== library QC medians by block ===
+     block    lib_M detected_ge10 top100_frac size_factor
+1 1119plus 47.45838         24971   0.6535937    1.104201
+2    other 30.51957         25422   0.4997763    1.020004
+
+=== DE diagnostics (same DESeq2 pipeline, DEG = padj<0.05 & |shrunk LFC|>0.5) ===
+                                 test case ref tested padj05   up down median_disp
+            F2 block1119+ vs F2 other   10  17  27123    721  297  215   0.1038873
+ random split F0/F1 10 vs 17 (seed 1)   10  17  26795      0    0    0   0.1626259
+ random split F0/F1 10 vs 17 (seed 2)   10  17  26868      3    2    1   0.1716103
+ random split F0/F1 10 vs 17 (seed 3)   10  17  26951      1    0    1   0.1402717
+                  main F4 vs F0 (all)   12  35  28006  12700 4320 5162   0.1684519
+      F4 vs F0, F4 outside block only    4  35  30264   1642 1075  473   0.1564591
+
+median dispersion (baseMean>10): GSE135251 main F4 vs F0 = 0.123
+
+=== main F4 vs F0 DEG vs block effect ===
+             main_deg             block_deg                  both   both_same_direction      spearman_lfc_all spearman_lfc_main_deg 
+             9152.000               510.000               233.000               225.000                 0.412                 0.488 
+
+=== NAS-missing diagnostics ===
+                                         test case ref tested padj05   up down median_disp
+             F0 NAS-missing vs F0 NAS-present    9  26  28117  10842 4601 2964   0.1199536
+             F1 NAS-missing vs F1 NAS-present    5  25  29360  10799 5474 4005   0.1207533
+                   F4 vs F0, NAS-present only    4  26  29991    787  447  298   0.1397874
+                   F4 vs F0, NAS-missing only    8   9  24808  13681 6162 6156   0.1217415
+ F4 vs F0, ~ nas_missing + group (diagnostic)   12  35  28006  10410 3734 3723   0.1463769
+
+=== main F4 vs F0 DEG vs NAS-missing effect (within F0) ===
+             main_deg             nasF0_deg                  both   both_same_direction      spearman_lfc_all spearman_lfc_main_deg 
+             9399.000              7508.000              2457.000              1681.000                 0.126                 0.184 
+
+outputs: /home/seyoung/academic_symposium/fibrosis/results/qc/GSE162694 
