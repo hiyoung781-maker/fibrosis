@@ -6,3 +6,5 @@ opentarget/
 geo_data/
 *.tar
 *.rds
+#claude
+ClAUDE.md
