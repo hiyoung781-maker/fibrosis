@@ -1,6 +1,0 @@
-test	case	ref	tested	padj05	up	down	median_disp
-F0 NAS-missing vs F0 NAS-present	9	26	28117	10842	4601	2964	0.119953583034944
-F1 NAS-missing vs F1 NAS-present	5	25	29360	10799	5474	4005	0.120753309727615
-F4 vs F0, NAS-present only	4	26	29991	787	447	298	0.139787369844129
-F4 vs F0, NAS-missing only	8	9	24808	13681	6162	6156	0.121741513718252
-F4 vs F0, ~ nas_missing + group (diagnostic)	12	35	28006	10410	3734	3723	0.14637686276459
