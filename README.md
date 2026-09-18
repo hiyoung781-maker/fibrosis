@@ -1,4 +1,5 @@
 # 간섬유화 표적의 약물성 재평가 → REINVENT4 Lead 도출
+<img width="2716" height="2316" alt="Image" src="https://github.com/user-attachments/assets/4d27c053-7aa4-4f9c-91af-93bba6cd25d1" />
 
 선행 논문의 간섬유화 표적 목록을 **독립 코호트에서 재검증**하고, 아무도 묻지 않았던 **약물성(druggability)** 기준으로 다시 채점한 뒤, 살아남은 표적에 대해 생성형 AI로 소분자 선도 물질을 설계한다.
 
